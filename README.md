@@ -6,7 +6,7 @@ step 1: download the zip file and extract it on the same folder, then open that 
 
 step 2: open the terminal ( ctrl + ~ ) then run this command >> npm i << (it'll install all the necessary file that runs in background)
 
-step 3: choose any file from scr,(appeared on your code aditer) let say App.js and open terminal on your coding editor with the help of shortcut key ctrl + ~ (on VS Code)
+step 3: choose any file from scr,(appeared on your code aditer) let say App.js and open terminal on your coding editor ( ctrl + ~ )
 
 step 4: To run the project type >> npm start << this will fire the chrome browser and you can now able to see my project. 
 
